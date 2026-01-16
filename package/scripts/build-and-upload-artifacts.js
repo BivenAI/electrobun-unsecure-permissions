@@ -184,4 +184,4 @@ for (const artifact of existingArtifacts) {
 }
 
 console.log('\n✅ Successfully built and uploaded artifacts!');
-console.log(`\nView the release at: https://github.com/IAmStiven/electrobun-unsecure-permissions/releases/tag/${tagName}`);
+console.log(`\nView the release at: https://github.com/BivenAI/electrobun-unsecure-permissions/releases/tag/${tagName}`);
