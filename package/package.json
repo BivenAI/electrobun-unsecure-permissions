@@ -23,7 +23,7 @@
   "homepage": "https://electrobun.dev",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamstiven/electrobun.git"
+    "url": "git+https://github.com/BivenAI/electrobun.git"
   },
   "scripts": {
     "build:cli": "mkdir -p bin && bun build src/cli/index.ts --compile --outfile bin/electrobun",
